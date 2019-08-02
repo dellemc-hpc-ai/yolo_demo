@@ -1,2 +1,2 @@
-# yolo_demo
-Running Yolo Demo from Container
+# YOLO Demo
+Running Yolo Demo from Container.
