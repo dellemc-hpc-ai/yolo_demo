@@ -30,7 +30,7 @@ If you want a detailed spec about the system this demo is validated on, please c
 
 ### Step 2. Ensure Prerequisites
 
-Although you might not need an extensive system as the validation system, at the very least you need to have a base installation of Linux OS such as RHEL Centos or Ubuntu and docker.  This also requires atleast 4GB of disk space, 
+Although you might not need an extensive system as the validation system, at the very least you need to have a base installation of Linux OS such as RHEL Centos or Ubuntu, Git and Docker.  This also requires atleast 4GB of disk space, 
 an Nvidia GPU, a working webcam (that already has drivers installed). 
 
 #### Some Tips In Centos 7: 
