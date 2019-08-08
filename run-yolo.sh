@@ -31,4 +31,4 @@ docker run --rm --privileged -v /dev/video0:/dev/video0 \
 	-v /tmp/.X11-unix:/tmp/.X11-unix \
 	-e DISPLAY=$DISPLAY \
 	--name "yolo-docker" \
-	yolo:centos
+	dellemchpcai/yolo_demo:latest
