@@ -1,4 +1,4 @@
-# Running YOLO Objec://htmlpreview.github.io/?https://raw.githubusercontent.com/dellemc-hpc-ai/yolo_demo/master/hwinfo.htmlt Detection Demo    
+# Running YOLO Object Detection Demo    
 
 This documentation is a step by step guide to runninng the YOLO object detection demo.
 
