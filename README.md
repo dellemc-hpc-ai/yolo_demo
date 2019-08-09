@@ -53,18 +53,18 @@ webcam and confirm it works.
 
 **If you don't have docker installed, the following links explain how to install docker.**
 
- 
- 
+  
+## Here is a video tutorial to install (Click below): 
+
+[![IMAGE ALT TEXT HERE](images/docker.jpg)](https://www.youtube.com/watch?v=Oa886S17jus)
+
+
+OR you can follow through these written articles: 
 
 For Centos 
 ```
 https://docs.docker.com/install/linux/docker-ce/centos/
 ```
-
-## Here is a video tutorial to install (Click below): 
-
-[![IMAGE ALT TEXT HERE](images/docker.jpg)](https://www.youtube.com/watch?v=Oa886S17jus)
-
 
 
 For Ubunutu 
