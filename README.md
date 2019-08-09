@@ -61,7 +61,7 @@ For Centos
 https://docs.docker.com/install/linux/docker-ce/centos/
 ```
 
-Here is a video tutorial to install: 
+##Here is a video tutorial to install (Click below): 
 
 [![IMAGE ALT TEXT HERE](images/docker.jpg)](https://www.youtube.com/watch?v=Oa886S17jus)
 
