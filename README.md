@@ -61,6 +61,12 @@ For Centos
 https://docs.docker.com/install/linux/docker-ce/centos/
 ```
 
+Here is a video tutorial to install: 
+
+[Install Docker](https://www.youtube.com/watch?v=Oa886S17jus)
+
+
+
 For Ubunutu 
 ```
 https://docs.docker.com/install/linux/docker-ce/ubuntu/
