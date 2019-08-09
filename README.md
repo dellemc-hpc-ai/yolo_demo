@@ -98,4 +98,6 @@ bash run-yolo.sh
 Note: If you have more than one webcam, please either use the webcam linked ``video0`` 
 or alter the ``run-yolo.sh`` bash script which mounts to the docker volume to your preferred webcam. 
 
-### Congrats, you made it. You must be able to see the demo run! 
+### Congrats, you made it. You must be able to see the demo run!
+
+The container is hosted on Dockerhub at : https://hub.docker.com/r/dellemchpcai/yolo_demo 
