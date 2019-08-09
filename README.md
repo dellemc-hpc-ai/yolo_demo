@@ -1,6 +1,6 @@
-# Running YOLO Object Detection Demo    
+# Running RealTime Webcam Object Detection Demo
 
-This documentation is a step by step guide to runninng the YOLO object detection demo.
+This documentation is a step by step guide to runninng the YOLO object detection demo with your webcam.
 
 
 ![alt text](images/example_demo.PNG)
@@ -11,6 +11,7 @@ This documentation is a step by step guide to runninng the YOLO object detection
 
 This demo is validated on a Dell PowerEdge C4130 system having the following specs:
 
+```
 ##### H/W Specs:
 
 * 2 X Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz
@@ -23,6 +24,7 @@ This demo is validated on a Dell PowerEdge C4130 system having the following spe
 * CentOS Linux 7 (Core)
 * Docker 1.13.1
 * Git 1.8.3.1 
+```
 
 If you want a detailed spec about the system this demo is validated on, please check [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dellemc-hpc-ai/yolo_demo/master/hwinfo.html "Hardware Spec Info"). 
 
