@@ -26,8 +26,6 @@ This demo is validated on a Dell PowerEdge C4130 system having the following spe
 * Git 1.8.3.1 
 ```
 
-If you want a detailed spec about the system this demo is validated on, please check [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dellemc-hpc-ai/yolo_demo/master/hwinfo.html "Hardware Spec Info"). 
-
 
 
 ### Step 2. Ensure Prerequisites
