@@ -45,7 +45,7 @@ You must see the following as a result:
 /dev/video0
 ```
 
-If you don't see anything or you see something like this ``ls: cannot access /dev/video*: No such file or directory`` then please go back and install the drivers for your 
+If you don't see anything or you see something like this **``ls: cannot access /dev/video*: No such file or directory``** then please go back and install the drivers for your 
 webcam and confirm it works.
 
 
@@ -93,8 +93,8 @@ Run the script
 ```
 bash run-yolo.sh
 ```
-Note: If you have more than one webcam, please either use the webcam linked ``video0`` 
-or alter the ``run-yolo.sh`` bash script which mounts to the docker volume to your preferred webcam. 
+Note: If you have more than one webcam, please either use the webcam linked **``video0``** 
+or alter the **``run-yolo.sh``** bash script which mounts to the docker volume to your preferred webcam. 
 
 ### Congrats, you made it. You must be able to see the demo run!
 
